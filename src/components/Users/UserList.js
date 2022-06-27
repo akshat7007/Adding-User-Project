@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Card from '../ui/Card';
-import classes from '../user/UserList.module.css';
+import Card from '../UI/Card';
+import classes from '../Users/UserList.module.css';
 
 const UsersList = (props) => {
   return (
